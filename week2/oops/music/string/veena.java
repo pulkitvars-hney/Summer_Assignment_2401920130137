@@ -1,6 +1,6 @@
 package music.string;
 
-import music.Playable;
+import music.playable;
 
 public class veena implements playable {
 

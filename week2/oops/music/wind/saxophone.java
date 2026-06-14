@@ -1,8 +1,8 @@
 package music.wind;
 
-import music.Playable;
+import music.playable;
 
-public class Saxophone implements Playable {
+public class saxophone implements playable {
 
     @Override
     public void play() {
